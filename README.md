@@ -16,7 +16,11 @@ Hit this commands into your terminal.
           $ flutter pub get
           $ flutter packages pub run build_runner watch --delete-conflicting-outputs
           $ flutter pub run build_runner watch
-
+          
+## Video Tutorials
+- Final OutLook : [Project Overview](https://youtu.be/1D2mRijboyA)
+- Part 1 : [UI Design](https://youtu.be/zXzdyQpiAoQ)
+- Part 2 : [Video Background Support](https://youtu.be/dOKJk04YcXg)
 
 ## Author
 
