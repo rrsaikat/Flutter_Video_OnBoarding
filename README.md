@@ -14,7 +14,7 @@ Cloned Tide App Welcome Screen UI. Have fun and if you find this project helpful
 
 
 <p align="start">
-<img src="https://raw.githubusercontent.com/rrsaikat/Flutter_Video_OnBoarding/master/assets/banner.png" height ="480" width ="820"/>
+<a href="http://www.youtube.com/c/Rezwanrehman"><img src="https://raw.githubusercontent.com/rrsaikat/Flutter_Video_OnBoarding/master/assets/banner.png" height ="480" width ="820"/></a>
 </p>
 
 
