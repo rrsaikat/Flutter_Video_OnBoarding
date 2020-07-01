@@ -1,8 +1,16 @@
 # FlutterVideoOnboarding
+ 
+<p align="start">
+  <a href="https://github.com/rrsaikat/Flutter_Video_OnBoarding/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Clones-10-orange"/></a>
+   <a href="https://github.com/rrsaikat/Flutter_Video_OnBoarding/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Views-24-brightgreen"/></a>
+   <a href="https://twitter.com/RsaikatR"><img alt="Twitter follow" src="https://img.shields.io/twitter/follow/RsaikatR.svg?style=social"/></a>
+ </p> 
+ 
+### Show some :heart: and star the repo to inspire me for my future projects!
 
 A Flutter video onboarding screen app in Android Studio from scratch without using any library.
 Cloned Tide App Welcome Screen UI. Have fun and if you find this project helpful then give a star to it and pray for me and my future work also. 
-#### HappyCoding ❤️
+#### HappyCoding :)
 
 
 <p align="start">
